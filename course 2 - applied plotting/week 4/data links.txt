@@ -1,0 +1,5 @@
+Labor force participation rate - With own children under 18:
+https://beta.bls.gov/dataViewer/view/timeseries/FMUP1378851
+
+Labor force participation rate - With no own children under 18:
+https://beta.bls.gov/dataViewer/view/timeseries/FMUP1378866
